@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Add Event By Voice</string>
+    <string name="begin_label">Begin</string>
+    <string name="end_label">End</string>
+    <string name="allday_label">AllDay</string>
+    <string name="event_label">Event</string>
+    <string name="add_label">Add</string>
+    <string name="event_title">Title</string>
+    <string name="event_description">Description</string>
+    <string name="event_location">Location</string>
+    <string name="add_event">Add Event</string>
+</resources>

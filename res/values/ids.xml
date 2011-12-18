@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="begin_label">false</item>
+    <item type="id" name="end_label">false</item>
+    <item type="id" name="allday_label">false</item>
+    <item type="id" name="event_label">false</item>
+    <item type="id" name="add_label">false</item>
+
+    <item type="id" name="begin_date_button">false</item>
+    <item type="id" name="end_date_button">false</item>
+    <item type="id" name="begin_time_button">false</item>
+    <item type="id" name="end_time_button">false</item>
+    <item type="id" name="allday_checkbox">false</item>
+
+    <item type="id" name="title_field">false</item>
+    <item type="id" name="title_recognizer_button">false</item>
+    <item type="id" name="description_field">false</item>
+    <item type="id" name="description_recognizer_button">false</item>
+    <item type="id" name="location_field">false</item>
+    <item type="id" name="location_recognizer_button">false</item>
+
+    <item type="id" name="add_button">false</item>
+</resources>
